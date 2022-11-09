@@ -1,5 +1,9 @@
 # Making a Free Webpage with Github Pages
+
 Brock University Library
+
+Instructor: Daniel Brett
+
 Introduction to Github **Part3**
 
 [Workshop link](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
